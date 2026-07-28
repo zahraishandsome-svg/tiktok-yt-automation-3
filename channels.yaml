@@ -4,6 +4,8 @@ channels:
   - id: channel_5
     tiktok_username: "haileyallissiaa"
     youtube_channel_name: "Hailey Allissia"
+    # The Google account that owns this YouTube channel (supplied by the user).
+    owner_email: "zahidkhandrishak7886@gmail.com"
     google_credentials_file: "credentials/channel_5_client_secret.json"
     oauth_token_file: "tokens/channel_5_token.json"
     videos_per_day: 2
